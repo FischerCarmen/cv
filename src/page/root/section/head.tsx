@@ -33,13 +33,6 @@ export const PageRootSectionHead = () => {
                 >
                   e-Mail
                 </a>
-                <span className="text-black">/</span>
-                <a
-                  className="text-neutral-600 hover:text-neutral-900"
-                  href="tel:+4369919260672"
-                >
-                  +43 699 19 26 06 72
-                </a>
               </div>
             </div>
           </div>
