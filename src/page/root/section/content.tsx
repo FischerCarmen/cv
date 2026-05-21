@@ -45,7 +45,7 @@ export const PageRootSectionContent = () => (
           <div className="flex flex-col gap-y-2.5">
             <div className="flex flex-col gap-y-1.5">
               <div>
-                <div className="text-xl font-semibold">Research Assistnat</div>
+                <div className="text-xl font-semibold">Research Assistant</div>
                 <div className="text-label-secondary">
                   Hochschule Campus Wien
                 </div>

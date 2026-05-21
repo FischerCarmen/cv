@@ -11,12 +11,12 @@ export const PageRootSectionHead = () => {
                 CARMEN FISCHER
               </span>
               <span className="text-sm text-neutral-600 font-stretch-semi-expanded">
-                she/her
+                sie/ihr
               </span>
             </div>
             <div className="flex flex-col gap-y-1.5">
               <span className="text-xs text-neutral-600 font-stretch-semi-condensed">
-                🇦🇹 Vienna, Austria
+                🇦🇹 Wien, Österreich
               </span>
 
               <div className="flex text-xs gap-x-1 flex-wrap">
