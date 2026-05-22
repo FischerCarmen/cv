@@ -19,7 +19,7 @@ const STATIC_DIR = "static";
 const parsedServePort = parseInt(env.SERVE_PORT ?? "");
 
 // necessary because 0 is a valid port
-const SERVE_PORT = isNaN(parsedServePort) ? 8080 : parsedServePort;
+const SERVE_PORT = isNaN(parsedServePort) ? 8081 : parsedServePort;
 const HOSTNAME = "localhost";
 
 const stripPrefix = (prefixed: string) =>

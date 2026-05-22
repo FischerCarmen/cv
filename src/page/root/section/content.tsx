@@ -103,7 +103,7 @@ export const PageRootSectionContent = () => (
                 high-quality results.
               </div>
             </div>
-            <div className="flex flex-col gap-y-1.5 print:mt-16">
+            <div className="flex flex-col gap-y-1.5">
               <div>
                 <div className="text-xl font-semibold">
                   Junior Business Analyst
@@ -168,7 +168,7 @@ export const PageRootSectionContent = () => (
                 automation.
               </div>
             </div>
-            <div className="flex flex-col gap-y-1">
+            <div className="flex flex-col gap-y-1 print:mt-16">
               <div className="text-xl font-semibold">Web CV</div>
               <div>
                 To present my professional experience in a modern and accessible
