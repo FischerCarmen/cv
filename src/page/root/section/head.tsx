@@ -8,7 +8,7 @@ export const PageRootSectionHead = () => {
           <div className="flex justify-center flex-col gap-y-2">
             <div className="flex flex-col gap-y-[2px]">
               <span className="text-3xl font-medium font-[Stretch-Pro] text-black">
-                CARMEN FISCHER
+                CARMEN FISCHER, BSc
               </span>
               <span className="text-sm text-neutral-600 font-stretch-semi-expanded">
                 sie/ihr
