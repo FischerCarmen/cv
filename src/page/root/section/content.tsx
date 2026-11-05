@@ -49,7 +49,7 @@ export const PageRootSectionContent = () => (
                 <div className="text-label-secondary">
                   Hochschule Campus Wien
                 </div>
-                <div className="text-label-tertiary">02 2025 - present</div>
+                <div className="text-label-tertiary">02 2026 - present</div>
               </div>
               <div>
                 As part of an FFG-funded project, I developed the frontend using
@@ -72,13 +72,13 @@ export const PageRootSectionContent = () => (
                 <div className="text-label-tertiary">04 2024 - 12 2025</div>
               </div>
               <div>
-                At the Bundesministerium für Inneres (BMI), I work as a Junior
+                At the Bundesministerium für Inneres (BMI), I worked as a Junior
                 IT Analyst, focusing on cybersecurity and system administration.
-                My responsibilities include analyzing files for malware, as well
+                My responsibilities included analyzing files for malware, as well
                 as administering key platforms like MISP and Velociraptor to
-                enhance threat intelligence. To improve efficiency, I develop
+                enhance threat intelligence. To improve efficiency, I developed
                 custom scripts that automate workflows and reduce manual tasks.
-                I also evaluate and review security tooling against defined
+                I also evaluated and reviewed security tooling against defined
                 organizational criteria, providing data-driven recommendations.
               </div>
             </div>
@@ -111,7 +111,7 @@ export const PageRootSectionContent = () => (
                 <div className="text-label-secondary">
                   A1 Telekom Austria AG
                 </div>
-                <div className="text-label-tertiary">02 2020 - 08 2023</div>
+                <div className="text-label-tertiary">09 2019 - 08 2023</div>
               </div>
               <div>
                 At A1 Telekom Austria AG, I served as a Junior Business Analyst,
@@ -122,9 +122,9 @@ export const PageRootSectionContent = () => (
                 an SLA reporting tool and process, overseeing everything from
                 data sourcing to report calculations, while ensuring rigorous
                 quality assurance to deliver accurate, actionable insights for
-                business clients. As the core team was cross cultural I also
-                gained a deeper understaning about work in a remote team and
-                communication with english as a second language to all.
+                business clients. As the core team was cross-cultural I also
+                gained understaning about work in a remote team and
+                communication with English as a second language to all.
               </div>
             </div>
           </div>
@@ -175,7 +175,7 @@ export const PageRootSectionContent = () => (
                 format, I designed and implemented a web-based version of my CV
                 using React/Tailwind CSS. This approach allowed me to create a
                 clean, responsive, and visually appealing layout that highlights
-                my skills, projects, and career journey, while beeing adaptable
+                my skills, projects, and career journey, while being adaptable
                 across devices. The project also showcased my ability to work
                 with front-end technologies and attention to detail in design.
               </div>
@@ -202,7 +202,7 @@ export const PageRootSectionContent = () => (
             <div className="col-2 row-3">
               Bachelor's Degree Computer Science Universität Wien
             </div>
-            <div className="col-3 row-3">Droped out</div>
+            <div className="col-3 row-3">Dropped out</div>
             <div className="col-1 row-4">2010 - 2015</div>
             <div className="col-2 row-4">HTL Rosensteingasse</div>
             <div className="col-3 row-4">Graduated</div>
